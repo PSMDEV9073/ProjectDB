@@ -1,0 +1,15 @@
+C:\Users\psm20\source\repos\ProjectDB\ProjectDB\bin\Debug\ProjectDB.exe.config
+C:\Users\psm20\source\repos\ProjectDB\ProjectDB\bin\Debug\ProjectDB.exe
+C:\Users\psm20\source\repos\ProjectDB\ProjectDB\bin\Debug\ProjectDB.pdb
+C:\Users\psm20\source\repos\ProjectDB\ProjectDB\obj\Debug\ProjectDB.csproj.AssemblyReference.cache
+C:\Users\psm20\source\repos\ProjectDB\ProjectDB\obj\Debug\ProjectDB.csproj.SuggestedBindingRedirects.cache
+C:\Users\psm20\source\repos\ProjectDB\ProjectDB\obj\Debug\ProjectDB.Main.resources
+C:\Users\psm20\source\repos\ProjectDB\ProjectDB\obj\Debug\ProjectDB.Properties.Resources.resources
+C:\Users\psm20\source\repos\ProjectDB\ProjectDB\obj\Debug\ProjectDB.csproj.GenerateResource.cache
+C:\Users\psm20\source\repos\ProjectDB\ProjectDB\obj\Debug\ProjectDB.csproj.CoreCompileInputs.cache
+C:\Users\psm20\source\repos\ProjectDB\ProjectDB\obj\Debug\ProjectDB.exe
+C:\Users\psm20\source\repos\ProjectDB\ProjectDB\obj\Debug\ProjectDB.pdb
+C:\Users\psm20\source\repos\ProjectDB\ProjectDB\bin\Debug\System.CodeDom.dll
+C:\Users\psm20\source\repos\ProjectDB\ProjectDB\bin\Debug\System.CodeDom.xml
+C:\Users\psm20\source\repos\ProjectDB\ProjectDB\obj\Debug\ProjectDB.csproj.CopyComplete
+C:\Users\psm20\source\repos\ProjectDB\ProjectDB\obj\Debug\ProjectDB.Main_Page.resources
